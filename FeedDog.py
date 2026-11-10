@@ -26,8 +26,8 @@ def feedDog(hunger_level,biscuit_size):
 
     return satisfied
 
-hunger_level = [4,3,2,1]
-biscuit_size = [1,2]
+#hunger_level = [4,3,2,1]
+#biscuit_size = [1,2]
 
 
 #print(feedDog(hunger_level,biscuit_size))
